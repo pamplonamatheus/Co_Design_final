@@ -4,9 +4,10 @@ main {
 	margin: auto;
 	padding: auto;
 	font-family: Open Sans, Verdana;
-	font-size: 1.0rem;
+	font-size: 2.0rem;
+	color :  #999999;
 	text-decoration: none;
-	background-color: #F4530D;
+	background-color: #000000;
 }
 
 head{
@@ -43,7 +44,7 @@ h1 {
 .Titulo{
 	margin: 20px 0px 0px 0px;
 	font-family: Open Sans, Arial, sans-serif;
-	font-size: 10px;
+	font-size: 4rem;
 }
 
 .Titulo2{
@@ -53,7 +54,7 @@ h1 {
 }
 
 .Frase{
-	font-size: 17px;
+	font-size: 3rem;
 	margin: 20px 0px 0px 0px;
 }
 
@@ -165,3 +166,4 @@ footer{
 	background-color: black;
 	font-family: Open Sans, Verdana;
 	list-style: none;
+
