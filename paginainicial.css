@@ -6,8 +6,12 @@ main {
 	font-family: Open Sans, Verdana;
 	font-size: 1.0rem;
 	text-decoration: none;
+	background-color: #F4530D;
 }
 
+head{
+	background-color: #FF530D;
+}
 
 img{
 
@@ -71,7 +75,7 @@ h1 {
 	width: 0px;
 	margin: 0px 0px 0px 0px;
 	color: #999999;
-	background-color: #000000;
+	background-color: #099990;
 	font-family: Open Sans, Verdana;
 	list-style: none;
 
@@ -91,7 +95,7 @@ h1 {
 }
 .menu-item:hover {
 	color: #FFFFFC;
-	background-color: #000000 ;
+	background-color: #FFFFFC ;
 	font-family: Open Sans, Verdana;
 	cursor: pointer;
 
@@ -139,7 +143,7 @@ footer{
 	width: 100%;
 	margin: 200px 0px 0px 0px;
 	padding: auto;
-	background-color: black;
+	background-color: #123456;
 }
 
 .fotosproj{
